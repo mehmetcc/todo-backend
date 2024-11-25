@@ -1,0 +1,1 @@
+best practises for a go project
